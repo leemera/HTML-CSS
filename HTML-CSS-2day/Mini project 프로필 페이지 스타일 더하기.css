@@ -1,0 +1,26 @@
+*{
+    text-align: center
+}
+
+html{
+    background-color: #1284aa;
+}
+
+body{
+    width: 640px;
+    margin: auto;
+}
+
+h1{
+    font-size: 36px;    
+}
+
+img{
+    width: 250;
+    height: 200;
+    border-radius: 50px;
+}
+
+p{
+    font-size: 1.5rem;
+}
